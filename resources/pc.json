@@ -1,0 +1,7 @@
+{
+    "extrinsic_path": "../resources/extrinsic.txt",
+    "input_bag_path": "../bags/1.bag",
+    "input_photo_path": "../pics/1.bmp",
+    "intrinsic_path": "../resources/intrinsic.txt",
+    "output_path": "../pics/output.jpg"
+}

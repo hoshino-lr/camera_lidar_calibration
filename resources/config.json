@@ -1,0 +1,7 @@
+{
+    "error_threshold": 12,
+    "extrinsic_path": "../resources/extrinsic.txt",
+    "intrinsic_path": "../resources/intrinsic.txt",
+    "lidar_path": "../resources/corner_lidar.txt",
+    "photo_path": "../resources/corner_photo.txt"
+}
